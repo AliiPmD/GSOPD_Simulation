@@ -1,4 +1,4 @@
-### A simulation of GSOPD on a two-link manipulator with MATLAB and Simulink
+## A simulation of GSOPD on a two-link manipulator with MATLAB and Simulink
 ---
 #### Based on this paper: *[Globally Asymptotic Output Feedback Tracking of Robot Manipulators With Actuator Constraints](https://doi.org/10.1016/j.ifacol.2020.12.2707)*
 
